@@ -1,4 +1,4 @@
-# Earthquake_Detection_With_Arduino
+# Earthquake_&_Landslide_Detection_With_Arduino
 Integrated Earthquake and Landslide Monitoring Over Wireless Sensor Network.
 
 Sensors Used are
